@@ -1,1 +1,3 @@
-# jdtangney.github.io
+# Public Web Site
+
+Just a blog. 
