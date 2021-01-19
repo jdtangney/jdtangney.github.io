@@ -1,12 +1,12 @@
 # Setup
 title:               JD Tangney
-tagline:             'Bringing Lean to Security and Privacy, and vice versa'
+tagline:             'Bringing Lean and UX to Security and Privacy, and vice versa'
 
 # This descriton will appear in your document head meta (for Google search results)
 # and in your feed.xml site description.
 description:         >-
-   UX, compliance, policy, privacy, security all belong inside the TDD loop. If it's not secure
-   (or private or compliant) then it should not compile.
+   These all belong inside the TDD loop: UX, compliance, policy, privacy, security. 
+   If it's not secure (or private or compliant or usable) then it should not compile.
 url:                 https://jdtangney.com
 baseurl:             ''
 paginate:            5
