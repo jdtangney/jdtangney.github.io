@@ -3,8 +3,13 @@ layout: page
 title: About
 ---
 
+# About
+
+Bringing Lean and UX to Security and Privacy, and vice versa.
+
+[https://about.me/jdtangney](https://about.me/jdtangney)
+
 <p class="message">
-  This site is based on <a href="https://github.com/poole/lanyon">Lanyon</a>
+  This site uses the <a href="https://github.com/poole/lanyon">Lanyon</a> theme for <a href="http://jekyllrb.com">Jekyll</a>.
 </p>
 
-Carry on about your business.
