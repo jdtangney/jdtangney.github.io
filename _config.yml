@@ -5,8 +5,7 @@ tagline:             'Bringing Lean and UX to Security and Privacy, and vice ver
 # This descriton will appear in your document head meta (for Google search results)
 # and in your feed.xml site description.
 description:         >-
-   These all belong inside the TDD loop: UX, compliance, policy, privacy, security. 
-   If it's not secure (or private or compliant or usable) then it should not compile.
+   UX, Lean, compliance, policy, privacy, security. 
 url:                 https://jdtangney.com
 baseurl:             ''
 paginate:            5
@@ -16,7 +15,7 @@ permalink:           pretty
 author:
   name:              John Tangney
   url:               https://twitter.com/jdtangney
-  email:             johnt@jdtangney.com
+  email:             blog@jdtangney.com
 
 # Gems
 plugins:
