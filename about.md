@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-# About
-
 Bringing Lean and UX to Security and Privacy, and vice versa.
 
 [https://about.me/jdtangney](https://about.me/jdtangney)
