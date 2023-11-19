@@ -6,6 +6,7 @@ preview: ""
 tags: []
 categories: []
 draft: false
+slug: front-matters
 ---
 
 I gave up on my previous attempts to use Eclipse and EASE as a CMS. The latter was broken for many months across many Eclipse releases. And to be frank, I am done with Eclipse. Yes, it's taken me this long to finally dump it in favor of VSCode and IntelliJ.
