@@ -6,7 +6,7 @@ tagline:             'Bringing Lean and UX to Security and Privacy, and vice ver
 # and in your feed.xml site description.
 description:         >-
    UX, Lean, compliance, policy, privacy, security. 
-url:                 https://jdtangney.com
+#url:                 https://jdtangney.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
